@@ -1,4 +1,7 @@
 package ru.aston.java.base;
 
-public class App {
+public enum App {
+    ONE,
+    TWO
+
 }
