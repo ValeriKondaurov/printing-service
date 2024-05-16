@@ -2,6 +2,7 @@ package ru.aston.java.base;
 
 public enum App {
     ONE,
-    TWO
+    TWO,
+    THREE
 
 }
